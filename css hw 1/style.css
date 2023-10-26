@@ -1,0 +1,40 @@
+* {
+    font-family:arial;
+    text-align: center;
+}
+body{
+    background-color: rgb(250, 215, 162);
+}
+table {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    background-color: #faebd7e7;
+    height: max-content;
+    padding: 0%;
+}
+.header {
+    background-color:#09db09be;
+    color: white;
+    
+}
+.confirmbtn {
+    background-color:green;
+}
+.deletebtn {
+    background-color:rgb(228, 13, 13)
+}
+.confirmbtn:hover {
+    background-color: aquamarine;
+}
+.deletebtn:hover {
+    background-color:rgba(245, 245, 220, 0.836) ;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(243, 11, 127);
+}
+table, tr, td {
+    height: 70px; ;
+}
